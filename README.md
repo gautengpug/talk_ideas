@@ -33,6 +33,9 @@ or submit a pull request to add your idea.
   * [SymPy](http://sympy.org/en/index.html)
   * [pandas](http://pandas.pydata.org/)
   * ...
+* Web Scraping:
+  * [Beautiful Soup](http://www.crummy.com/software/BeautifulSoup/)
+  * [Scrapy](http://scrapy.org/)
 * [Fabric](http://www.fabfile.org/)
 * [gevent](http://www.gevent.org/)
 * [Celery](http://www.celeryproject.org/)
